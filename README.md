@@ -1,4 +1,4 @@
-# Angular Interceptors - how to use to mock data
+# Angular Interceptors - how to use Interceptors to mock data
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
